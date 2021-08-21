@@ -1,0 +1,35 @@
+ {
+   "Nome": "Rafael",
+   "Valor": 214,
+   "Estrelas": 5,
+   "Reviews": 11,
+   "Data": "2021-07-01",
+   "Endereco": {
+     "Cidade": "Joanópolis",
+     "Estado": "São Paulo",
+     "Pais": "Brazil"
+   },
+   "Casa": {
+     "Convidados": 2,
+     "Quartos": 1,
+     "Camas": 1,
+     "Banheiros": 1,
+     "QuartoDetalhes": {
+       "TipoDeCama": "Quen",
+       "Rede": "true"
+     }
+   },
+   "O_Que_O_Lugar_Oferece": {
+     "WiFi": "true",
+     "WaterFront": "true",
+     "FreePark": "true",
+     "HotTub": "true",
+     "SecurityCameras": "true",
+     "CarbonMonoxideAlarm": "false",
+     "SmookAlarm": "false"
+   },
+   "DescricaoDoLugar": {
+     "Descricao": "Buble Experience como o próprio nome diz é uma experiência única! Eclusiva Extrutura Totalmente Transparente com vista para o ceu, Estrelas e Represa."
+   }
+ }
+
